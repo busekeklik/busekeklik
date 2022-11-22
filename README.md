@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busekeklik&show_icons=true&locale=en" alt="busekeklik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=busekeklik&" alt="busekeklik" /></p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=busekeklik.busekeklik)
