@@ -7,12 +7,6 @@
 
 [![bkeklik's 42 stats](https://badge42.vercel.app/api/v2/cl5n4c7tx013608ld0th7afn2/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=busekeklik&label=Profile%20views&color=0e75b6&style=flat" alt="busekeklik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=busekeklik" alt="busekeklik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/busekeklk" target="blank"><img src="https://img.shields.io/twitter/follow/busekeklk?logo=twitter&style=for-the-badge" alt="busekeklk" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/busekeklk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="busekeklk" height="30" width="40" /></a>
