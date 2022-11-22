@@ -1,18 +1,10 @@
-Hi there! I'm Buse Keklik🖐🏻. I'm student at Istanbul Aydin University and my department is software engineering. I'm doing projects in 42 Istanbul and improving my algorithm. I'm also interested in the game and i'm learning unity.
 
-[![bkeklik's 42 stats](https://badge42.vercel.app/api/v2/cl5n4c7tx013608ld0th7afn2/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
-
-## CONTACT TO ME
-[![Gmail Badge](https://img.shields.io/badge/-busekeklik3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busekeklik3@gmail.com)](mailto:busekeklik3@gmail.com)
-
-[![busekeklik](https://img.shields.io/badge/-busekeklik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/busekeklik/)](https://www.linkedin.com/in/busekeklik/)
-
-## VISITORS
-![busekeklik](https://visitor-badge.laobi.icu/badge?page_id=busekeklik.busekeklik)
 
 
 <h1 align="center">Hi 👋, I'm Buse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a student at Istanbul Aydin University and my department is Software Engineering</h3>
+
+[![bkeklik's 42 stats](https://badge42.vercel.app/api/v2/cl5n4c7tx013608ld0th7afn2/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busekeklik&label=Profile%20views&color=0e75b6&style=flat" alt="busekeklik" /> </p>
 
