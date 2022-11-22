@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=busekeklik" alt="busekeklik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lhlslnumb" target="blank"><img src="https://img.shields.io/twitter/follow/lhlslnumb?logo=twitter&style=for-the-badge" alt="lhlslnumb" /></a> </p>
+<p align="left"> <a href="https://twitter.com/busekeklk_" target="blank"><img src="https://img.shields.io/twitter/follow/busekeklk_?logo=twitter&style=for-the-badge" alt="busekeklk_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lhlslnumb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lhlslnumb" height="30" width="40" /></a>
+<a href="https://twitter.com/busekeklk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="busekeklk_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/busekeklik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busekeklik" height="30" width="40" /></a>
 <a href="https://instagram.com/busekeklik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="busekeklik_" height="30" width="40" /></a>
 </p>
