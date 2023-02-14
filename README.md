@@ -2,8 +2,7 @@
 
 
 <h1 align="center">Hi there, I'm Buse</h1>
-<h3 align="center">I am a software engineering student at Istanbul Aydın University. </h3>
-<h3 align="center">I'm also student at Ecole 42 Istanbul </h3>
+<h3 align="center">I am a software engineering student at Istanbul Aydın University. I am also a 42 Istanbul student.</h3>
 
 [![bkeklik's 42 stats](https://badge42.vercel.app/api/v2/cl5n4c7tx013608ld0th7afn2/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
 
