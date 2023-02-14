@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Buse</h1>
+<h1 align="center">Hi there, I'm Buse</h1>
 <h3 align="center">I'm a student at Istanbul Aydın University and my department is Software Engineering </h3>
 <h3 align="center">I'm also student at Ecole 42 Istanbul </h3>
 
