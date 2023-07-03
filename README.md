@@ -1,20 +1,16 @@
+<h3 align="center"> Hi, I'm Buse </h3>
+  
+<h4 align="center">I am a 3rd-year student studying Software Engineering at Istanbul Aydin University. I have been involved in software development for the past 2 years. Additionally, I am actively working on projects at École 42 Istanbul, where I continuously strive to enhance my skills. </h4> 
+ 
+ <h4 align="center"> I am committed to continuous self-improvement in the software field and aspire to be part of more significant and impactful projects in the future. Additionally, I aim to contribute to open-source communities and become more actively engaged in the software world. </h4>
 
+<h4 align="center"> If you would like to collaborate on projects, exchange ideas, or learn more about me, please do not hesitate to get in touch. </h4>
 
-
-<h1 align="center">Hi there, I'm Buse</h1>
-<h3 align="center">I am a software engineering student at Istanbul Aydın University. I am also a 42 Istanbul student.</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/busekeklk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="busekeklk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/buse-keklik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busekeklik" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busekeklik&show_icons=true&locale=en&layout=compact" alt="busekeklik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busekeklik&show_icons=true&locale=en" alt="busekeklik" /></p>
+<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=busekeklik.busekeklik)
