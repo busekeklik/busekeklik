@@ -1,11 +1,11 @@
-<h3 align="center"> Hi, I'm Buse </h3>
+<h1 align="center"> Hi, I'm Buse Keklik </h1>
   
-<h4 align="center">I am a 3rd year student at Istanbul Aydin University Software Engineering. At the same time, I am improving myself by doing an internship in the field of backend java spring framework. </h4> 
+<h3 align="center"> Backend Developer </h3> 
 
+## Skills
+<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,html,css,js,react,py,firebase,mysql,docker,linux,git,github" alt="skills logos" /> <br>
 
-<h4 align="center"> I want to be an engineer who directs the future by taking initiatives. If you would like to collaborate on projects, exchange ideas or learn more about me, please do not hesitate to contact me. </h4>
-
-<h4 align="left">Connect with me:</h4>
+## Connect With Me
 <p align="left">
 <a href="https://twitter.com/busedev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="busedev_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/buse-keklik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busekeklik" height="30" width="40" /></a>
