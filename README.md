@@ -1,6 +1,6 @@
 <h1 align="center">  Hi 👋🏻 , I'm Buse </h1>
 
-<h3 align="center"> 👩🏻‍💻 Backend Developer </h3> 
+<h3 align="center"> 👩🏻‍💻 Full Stack Developer </h3> 
 <h4 align="center"> 🍃 Currently work on Java Spring Framework </h4>
 
 ## Skills
