@@ -9,15 +9,10 @@
 
 ## Contact
 
-<div align="center">
-  <a href="mailto:busekeklik@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
-  </a>
-  <a href="https://busekeklik.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-  
+<a href="https://www.linkedin.com/in/buse-keklik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buse-keklik" height="30" width="40" /></a>
+  <a href="https://busekeklik.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kendime-notlar" height="30" width="40" style="max-width: 100%;"></a>
+
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=busekeklik.busekeklik" alt="Most Commit Language" />
 </p>
 
