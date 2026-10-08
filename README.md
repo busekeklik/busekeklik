@@ -3,6 +3,12 @@
 <h3 align="center"> 👩🏻‍💻 Full Stack Developer </h3> 
 <h4 align="center"> 🔮 Crafting Full Stack Solutions & Exploring AI Technologies </h4>
 
+## 📰 Weekly Tech
+
+Every Monday, a one-page roundup of what happened in tech and AI that week.
+
+👉 **[Read this week's issue](https://weekly-tech.vercel.app)**
+
 ## Contact
 
 <p align="left">
