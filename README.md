@@ -7,7 +7,7 @@
 
 Every Monday, a one-page roundup of what happened in tech and AI that week.
 
-👉 **[Read this week's issue](https://weekly-tech.vercel.app)**
+👉 **[Read this week's issue](https://weekly-tech-news.vercel.app)**
 
 ## Contact
 
